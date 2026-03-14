@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 其他不需要的文件
+.DS_Store
