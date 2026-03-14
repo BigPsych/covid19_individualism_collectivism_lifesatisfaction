@@ -37,7 +37,7 @@ Please download and move it into the folder `4_I-C_LS_score_calculation\2_life_s
 
 | File | Link | Password | Destination |
 |-----|------|----------|-------------|
-| `1_data.zip` | [Download](https://pan.baidu.com/s/1a2C8v649WGjx8ju8LRuIEg?pwd=n3xt) | `n3xt`   | `/4_I-C_LS_Score_Calculation/2_life_satisfaction/1_LS_model_training/` |
+| `1_data.zip` | [Download](https://pan.baidu.com/s/1a2C8v649WGjx8ju8LRuIEg?pwd=n3xt) | `n3xt`   | `./4_I-C_LS_Score_Calculation/2_life_satisfaction/1_LS_model_training/` |
 | `2_calculate_life_satisfaction.zip` | [Download](https://pan.baidu.com/s/1i0VvVfdScU_oivtCM8yERA?pwd=y2qn) | `y2qn`   | `./4_I-C_LS_Score_Calculation/2_life_satisfaction/2_calculate_life_satisfaction/` |
 
 
