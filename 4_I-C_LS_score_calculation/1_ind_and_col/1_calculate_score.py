@@ -3,17 +3,17 @@ import re
 import pandas as pd
 
 # 专业认同度字典
-professional_dict_file = "个人主义词典.xlsx"
+professional_dict_file = "2_ind_lexicon.xlsx"
 professional_dict_df = pd.read_excel(professional_dict_file, header=None, names=["words", "weight"])
 professional_dict = dict(zip(professional_dict_df["words"], professional_dict_df["weight"]))
 
 # 否定词字典
-deny_words_file = "deny_words.xlsx"
+deny_words_file = "3_deny_words.xlsx"
 deny_words_df = pd.read_excel(deny_words_file, header=None, names=["words", "weight"])
 deny_words_dict = dict(zip(deny_words_df["words"], deny_words_df["weight"]))
 
 # 程度词字典
-degree_words_file = "degree_words.xlsx"
+degree_words_file = "3_degree_words.xlsx"
 degree_words_df = pd.read_excel(degree_words_file, header=None, names=["words", "weight"])
 degree_words_dict = dict(zip(degree_words_df["words"], degree_words_df["weight"]))
 
